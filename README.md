@@ -1,0 +1,1 @@
+RUActive is a fitness and wellness web app built with Python + Streamlit that helps users track workouts, analyze progress, and receive personalized exercise and nutrition guidance. It combines clean UI, interactive visualizations, and data-driven recommendations to make fitness planning simple and engaging.
